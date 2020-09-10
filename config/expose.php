@@ -13,7 +13,7 @@ return [
     | Feel free to host your own server and change this value.
     |
     */
-    'host' => 'sharedwithexpose.com',
+    'host' => 'plexus-automation.com',
 
     /*
     |--------------------------------------------------------------------------
@@ -27,7 +27,7 @@ return [
     | The free default server is already running on port 443.
     |
     */
-    'port' => 443,
+    'port' => 80,
 
     /*
     |--------------------------------------------------------------------------

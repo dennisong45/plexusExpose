@@ -1,18 +1,18 @@
 {
-    "name": "beyondcode/expose",
+    "name": "Plexus Expose",
     "type": "project",
-    "description": "Expose",
+    "description": "Plexus Expose",
     "keywords": [
         "expose",
         "tunnel",
         "ngrok"
     ],
-    "homepage": "https://sharedwithexpose.com",
+    "homepage": "plexus-automation.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de"
+            "name": "dennis",
+            "email": "dwh.ong@csueastbay.edu"
         }
     ],
     "require": {
